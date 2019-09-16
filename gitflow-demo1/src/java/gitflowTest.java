@@ -17,4 +17,13 @@ public class gitflowTest {
     public static void featureOne() {
         System.out.println("这是功能开发1");
     }
+
+    public static void featureTwo() {
+        System.out.println("这是功能开发2");
+
+    }
+
+    public static void fixBug1() {
+        System.out.println("修复不紧急的bug1");
+    }
 }
