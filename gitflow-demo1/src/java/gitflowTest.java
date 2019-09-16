@@ -26,4 +26,7 @@ public class gitflowTest {
     public static void fixBug1() {
         System.out.println("修复不紧急的bug1");
     }
+    public static void fixBug2() {
+        System.out.println("修复不紧急的bug2");
+    }
 }
