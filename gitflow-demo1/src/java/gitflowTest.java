@@ -10,7 +10,12 @@ public class gitflowTest {
 
     public static void main(String[] args) {
         System.out.println("master");
+        hitfixBug();
     }
 
 
+
+    public static void hitfixBug() {
+        System.out.println("线上bug进行修复");
+    }
 }
