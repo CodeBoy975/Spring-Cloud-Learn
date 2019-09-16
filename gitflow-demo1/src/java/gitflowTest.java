@@ -21,4 +21,8 @@ public class gitflowTest {
     public static void featureTwo() {
         System.out.println("功能2");
     }
+
+    public static void test3() {
+        System.out.println("功能3");
+    }
 }
