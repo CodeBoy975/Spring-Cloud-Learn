@@ -10,9 +10,12 @@ public class gitflowTest {
 
     public static void main(String[] args) {
         System.out.println("master");
-        hitfixBug();
+        featureOne();
     }
 
+    public static void featureOne() {
+        System.out.println("这是正在开发的功能,开发完毕");
+    }
 
 
     public static void hitfixBug() {
